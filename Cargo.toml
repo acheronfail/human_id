@@ -1,0 +1,13 @@
+[package]
+name = "human_id"
+description = "Generate human readable identifier strings by chaning common (short) words of the english language."
+version = "0.1.0"
+authors = ["acheronfail <acheronfail@gmail.com>"]
+edition = "2018"
+homepage = "https://github.com/acheronfail/human_id"
+repository = "https://github.com/acheronfail/human_id"
+readme = "README.md"
+license = "Unlicense OR MIT"
+
+[dependencies]
+rand = "0.7.3"
